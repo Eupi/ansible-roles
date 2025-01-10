@@ -1,0 +1,6 @@
+---
+# tasks file for hostname
+
+- name: change hostname on server
+  hostname:
+    name: stage
