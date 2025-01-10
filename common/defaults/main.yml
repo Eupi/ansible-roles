@@ -1,2 +1,6 @@
 ---
 # defaults file for common
+region: Europe
+city: Moscow
+swap_path: swapfile
+swap_size: 1G
